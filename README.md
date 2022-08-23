@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Bibek.
-- 👀 I’m interested in Data Science and Machine Learning with python.
-- 🌱 I’m currently learning Python for data science and Django framework for web development.
-- 💞️ I am looking to create apps that use machine learning and data science to provide great use to the users.
+- 👀 I’m currently working as a Django developer.
 - 📫 How to reach me? You can Whatsapp me on +9779845663478 or Telegram me on the same.
 
 <!---
